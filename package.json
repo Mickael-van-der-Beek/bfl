@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"async": "~0.9.0",
+		"colog": "~1.0.4"
+	}
+}
